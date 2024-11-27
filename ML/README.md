@@ -1,1 +1,1 @@
-This file consist of Machine Learning projects for fundametals course
+This folder consist of Machine Learning projects for fundametals course
