@@ -1,0 +1,7 @@
+Tein Messutalotehtävän aluksi pitkälti harjoitteena opetusvideoiden pohjalta mutta lopulta into ja mielikuvitus pääsi laukalle ja aloin kokeilemaan vähän kaikenlaista. Saaresta muotoitui nopeasti jonkin erakoituneen triljardöörin piilopaikka uinuvan tulivuoren kraaterin muodostamalla saarella. 
+
+Messutalosta löytyy pelillistettyinä ominaiusuuksina myös opetusvideoissa olevat aukeavat ovet (pääovi sekä olohuoneen terassin ovi), joidenka koodi on suoraan opetusvideoista. Huoneisiin on lisätty valonlähteitä sekä olohuoneeseen Particle Systemillä takkatuli. Osa huoneista on sisustettu 3DWarehouse asseteilla. Pihaan sekä muualle saarelle on istutettu useampaa eri puulajia sekä saarelle on luotu tiestö. Talon pihalla on pihavalaistusta niin valotolpissa kuin myös koristeellisempina spottivaloina ulkokäytävillä. Pihasta löytyy myös maastopyörä sekä Hyundai Palisade. Taivaalle laitoin upean ilta-aurinkoa kuvaavan SkyBoxin.
+
+Tehtävä lähti siinä vaiheessa vahvasti laukalle kun pientä laituria ja soutuvenettä etsiessäni vastaan tulikin miljardiluokan luksusristeilijä sekä sille lähes soveltuva satama. Ne onneksi asettuivat upeasti miljööseen.
+
+Post Processing Stackiä käytin varsin maltillisesti lisäten häivähdyksen Bloomia, Ambien Occulsonia sekä Grainia sekä Vignetteä saaden mielestäni kohtuu realistisen ulkonäön maailmalle.
