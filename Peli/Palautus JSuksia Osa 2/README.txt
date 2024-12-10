@@ -1,7 +1,0 @@
-Luotu aluksi terain editorilla vuoristomainen laaksoalue joka täytetty puilla sekä nurmikkoaleilla. Luotu myös yksi kappale omatekoisia puita mutta lopputulos oli hyvin erikoinen. Skybox haettu googlella. Valolla pyritty luomaan hieman yön tapainen tai muuten hämärä maisema. Lisäksi lisätty spot valot piikikkään vuoren huipulle (punainen väri) sekä sitä ympäröivän metsän keskelle. Valo osoittaa omatekemää puuta ikään kuin auringon valona puiden välistä.
-
-Skybox oli erittäin hieno, mutta sisälsi pienet rajat jotka näkyvät selkeästi taivaalla. Taivaan ollessa kuitenkin niin hienon ja tunnelmallisen näköinen, jätetty taivas sikseen eikä lähdetty vaihtamaan uuteen. 
-
-Nälkä kasvoi syödessä jolloin lisätty toinen alue terrain editorilla ja tehty alueelle ranta. Rannalle lisätty 3Dwarehousesta mökki, jonka sisällä hahmo pystyy kulkemaan. Mökistä irrotettu ovet sekä ikkunoita muutettu läpinäkyvämmäksi. Myös mallin mukana tullut tausta poistettu.
-
-Hahmon liikkuminen toteutettu Standard assets -paketin FPSControllerin avulla. Controllerissa oli ennestään ääniefektit pelaajan liikkeille, mutta lisätty peliin lisättyä Wind zone -ominaisuutta tehostamaan tuulen ääni. Audiokomponentti kiinnitetty pelaajan kameraan.
