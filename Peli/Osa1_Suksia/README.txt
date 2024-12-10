@@ -1,7 +1,7 @@
-Tein Messutalotehtävän aluksi pitkälti harjoitteena opetusvideoiden pohjalta mutta lopulta into ja mielikuvitus pääsi laukalle ja aloin kokeilemaan vähän kaikenlaista. Saaresta muotoitui nopeasti jonkin erakoituneen triljardöörin piilopaikka uinuvan tulivuoren kraaterin muodostamalla saarella. 
+# Gamifying assignment for school project
 
-Messutalosta löytyy pelillistettyinä ominaiusuuksina myös opetusvideoissa olevat aukeavat ovet (pääovi sekä olohuoneen terassin ovi), joidenka koodi on suoraan opetusvideoista. Huoneisiin on lisätty valonlähteitä sekä olohuoneeseen Particle Systemillä takkatuli. Osa huoneista on sisustettu 3DWarehouse asseteilla. Pihaan sekä muualle saarelle on istutettu useampaa eri puulajia sekä saarelle on luotu tiestö. Talon pihalla on pihavalaistusta niin valotolpissa kuin myös koristeellisempina spottivaloina ulkokäytävillä. Pihasta löytyy myös maastopyörä sekä Hyundai Palisade. Taivaalle laitoin upean ilta-aurinkoa kuvaavan SkyBoxin.
+The given screenshots and scripts are from a gamifying assignment for school. The idea was to gamify an apartment for virtual aparment presentation. The project was made with Unity game engine.
 
-Tehtävä lähti siinä vaiheessa vahvasti laukalle kun pientä laituria ja soutuvenettä etsiessäni vastaan tulikin miljardiluokan luksusristeilijä sekä sille lähes soveltuva satama. Ne onneksi asettuivat upeasti miljööseen.
+Project has automatic doors with colliders, lighting effects, Post-Processing and fire made with Unity Particle System
 
-Post Processing Stackiä käytin varsin maltillisesti lisäten häivähdyksen Bloomia, Ambien Occulsonia sekä Grainia sekä Vignetteä saaden mielestäni kohtuu realistisen ulkonäön maailmalle.
+The assets used are from 3DWarehouse and Unity Standard assets pack. The design and development, both indoors and outdoors, is done by me.
